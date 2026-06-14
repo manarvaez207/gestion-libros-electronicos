@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "titulo": "Introducción a Go",
+    "autor": "Alan Donovan",
+    "categoria": "Programación",
+    "anio": 2016,
+    "disponible": false
+  }
+]
