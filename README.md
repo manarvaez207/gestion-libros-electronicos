@@ -88,6 +88,7 @@ internal/busquedas
 Contiene funciones para buscar libros por título y por categoría. Este paquete utiliza una interfaz llamada LibroBuscable, lo que permite aplicar polimorfismo y desacoplar la búsqueda del tipo concreto del libro.
 
 internal/persistencia
+
 Contiene funciones para guardar y cargar libros desde un archivo JSON. Esto permite que la información del sistema pueda conservarse fuera de la ejecución del programa.
 
 internal/reportes
